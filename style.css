@@ -1,0 +1,98 @@
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    
+}
+
+
+    .aaa{
+        border: 1px solid black;
+      margin: 1px;
+    padding: 20px;
+    border-radius: 30px;
+    background-image: linear-gradient(black,white,rgb(99, 140, 237));
+    box-shadow: 5px 10px 20px 0px black;
+    
+    }
+    
+    .f:hover{
+     background-image: linear-gradient(white,rgb(63, 80, 174),rgb(99, 140, 237),white);
+     transition: 1s;
+     font-size:25px;
+
+     
+    }
+  .fff{
+    background-color: black;
+    color: white;
+  }
+  .g{
+  margin: 200px;
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 10px;
+    background-image: linear-gradient(black,white);
+  }
+  .dd{
+    margin:  10px;
+  }
+  .p{
+  width: 300px; 
+  height: 222px;
+  border: 3px solid black;
+  }
+.q{
+  width: 300px; 
+  height: 222px;
+   border: 3px solid black;
+   float: right;
+}
+.e{
+  font-size: 20px;
+ margin: 77px;
+ background-image: linear-gradient(black,white);
+ border: 2px solid black;
+}
+.t{
+  text-align: center;
+
+}
+body{
+  text-align: center;
+}
+nav a{
+  border:5px solid rgb(2, 2, 2);
+  border-radius: 4px;
+  text-align: center;
+  font-size:22px;
+  text-decoration: none;
+  color:black
+ }
+ nav a:hover{
+  color:black;
+  background-color: rgb(247, 243, 243);
+  transition:1s;
+  width:20%;
+  font-size: 25px;
+ }
+ .e{
+  font-size:25px;
+  padding:2px;
+  border-radius:5px;
+  border:2px solid black;
+ }
+ .tenor-gif-embed{
+  width: 200px;
+  height: 300px;
+ }
+ h4:hover{
+  transition:1s;
+  font-size:18px;
+ }
+ td a:hover{
+  color:black;
+  font-size:12px;
+  transition:1s;
+ }
+ body{background: rgb(255,255,255);
+  background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(202,239,253,1) 2%, rgba(200,238,253,1) 4%, rgba(185,234,253,1) 19%, rgba(199,238,253,1) 20%);}
